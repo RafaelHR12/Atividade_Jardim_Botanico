@@ -1,0 +1,27 @@
+#titleMed {
+    color: green;
+}
+
+#titleOrn {
+    color: purple;
+}
+
+h2 a {
+    color: darkorange;
+    text-decoration: none;
+}
+
+p a {
+    text-decoration: none;
+}
+
+p {
+    font-size: 18px;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+} 
+p{
+    color: red;
+}
